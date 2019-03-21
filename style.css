@@ -1,4 +1,5 @@
 body {background-color: gold}
 .wrapper{
     display: grid;
+    background-color: darkslategray
 }
